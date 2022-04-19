@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/tober-food-app.git/static/css/main.5fc8d379.css",
-    "main.js": "/github.io/tober-food-app.git/static/js/main.cd0ffbfe.js",
-    "index.html": "/github.io/tober-food-app.git/index.html",
-    "main.5fc8d379.css.map": "/github.io/tober-food-app.git/static/css/main.5fc8d379.css.map",
-    "main.cd0ffbfe.js.map": "/github.io/tober-food-app.git/static/js/main.cd0ffbfe.js.map"
+    "main.css": "/github.io/tober-food-app/static/css/main.5fc8d379.css",
+    "main.js": "/github.io/tober-food-app/static/js/main.cd0ffbfe.js",
+    "index.html": "/github.io/tober-food-app/index.html",
+    "main.5fc8d379.css.map": "/github.io/tober-food-app/static/css/main.5fc8d379.css.map",
+    "main.cd0ffbfe.js.map": "/github.io/tober-food-app/static/js/main.cd0ffbfe.js.map"
   },
   "entrypoints": [
     "static/css/main.5fc8d379.css",
